@@ -1,4 +1,4 @@
-# Have a blast as a Bubbler
+# Have a blast as a Bubbler ⚡
 
 Towards the end of February, I suddenly realized that the summer has gone, what it comes along is the finish of my internship program. Looking back, this summer was hot, as usual, what is different is that I chill myself out by working in a cool place with a group of cool people aiming at bringing creativity into the world. The place is called Redbubble. 
 
@@ -12,7 +12,7 @@ I started as a Data Science Intern at discovery team. This team is focused on em
 
 From the second week of my internship, I was able to hit the ground with a real project, building knowledge graph of semantic relationship of the tags. In the Redbubble database, there are millions of artworks, each one is denoted with a number of tags by the artist. Therefore, understanding the relationship of the tag is fundamental to our knowledge about artworks.   
 
-So the intern is on mission! 
+So the intern is on mission! 😎
 
 I started the project with research to understand the mainstream approaches and challenges in building semantic relationships of tag knowledge graph. With deeper delve into the research, especially with proof of concept on the demo of tag similarity, the team gets more excited about how we could do to improve user experience by utilizing knowledge in tags. 
 
