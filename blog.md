@@ -26,8 +26,7 @@ At Redbubble, we are not only thrilled by cracking problems and solving puzzles,
 
 At Redbubble, it is common for us to admire our fellows’ newly acquired art treasures.
 
-I remembered as a newcomer, I attended the session Meeting the Chief, where everyone including our CEO Martin shared their choice of purchased artworks and reason why they love it. It is amazing to hear their stories behind the artworks, it could be a clock that is used to decorate the new house, it could be a space-cat tee that expresses enthusiasm towards the unknown space, or a lovely tote bag for a family member for Christmas. In that moment, I felt connected to these people by sharing their joy, curiosity and happiness. 
-
+As a newcomer, I attended a session called Meeting the Chief, where everyone including our CEO Martin shared their choice of purchased artworks and reason why they love it. It is amazing to hear the stories behind the artworks. It could be a clock that is used to decorate the new house, it could be a space-cat tee that expresses enthusiasm towards the unknown space, or a lovely tote bag for a family member for Christmas. In that moment, I felt connected to these people by sharing their joy, curiosity and happiness. 
 ## Growing our talents
 I’ve met many amazing engineers at Redbubble. When taking a close look, I realized it is those talented people who have the strongest curiosity and eager to learn. 
 
@@ -37,9 +36,9 @@ I joined the Video Lunch course on Machine Learning on a weekly basis. Although 
 
 ## After 5pm
 
-Now you may picture Bubblers as creative, passionate, hard core. Then I forget to tell one thing, they are definitely approachable! 
+Now you may picture Bubblers as creative, passionate, hard core. But I forgot to mention one thing: they are definitely approachable! 
 
-At Redbubble you will never lack the fun people to hang out with. Actually, ‘have fun’ is the agreed working principle of our team when we brainstormed about how we could do better. And I am pretty sure it is same with other teams. 
+At Redbubble you will never lack for fun people to hang out with. Actually, ‘have fun’ was the agreed working principle of our team when we brainstormed about how we could do better. And I am pretty sure it is same with other teams.
 
 Here I also met many fun people, with whom I play foosball and badminton, watch Australian Open, have Friday night drinks, play Texas Poker, do stretching and meditation and other fun activities. There is definitely more to check out, or you can start a group to have fun in a different way.
 
